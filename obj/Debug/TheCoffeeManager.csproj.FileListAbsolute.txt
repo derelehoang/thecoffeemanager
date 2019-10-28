@@ -1,0 +1,9 @@
+D:\GameCaro\TheCoffeeManager\bin\Debug\TheCoffeeManager.exe.config
+D:\GameCaro\TheCoffeeManager\bin\Debug\TheCoffeeManager.exe
+D:\GameCaro\TheCoffeeManager\bin\Debug\TheCoffeeManager.pdb
+D:\GameCaro\TheCoffeeManager\obj\Debug\TheCoffeeManager.csprojResolveAssemblyReference.cache
+D:\GameCaro\TheCoffeeManager\obj\Debug\TheCoffeeManager.Form1.resources
+D:\GameCaro\TheCoffeeManager\obj\Debug\TheCoffeeManager.Properties.Resources.resources
+D:\GameCaro\TheCoffeeManager\obj\Debug\TheCoffeeManager.csproj.GenerateResource.Cache
+D:\GameCaro\TheCoffeeManager\obj\Debug\TheCoffeeManager.exe
+D:\GameCaro\TheCoffeeManager\obj\Debug\TheCoffeeManager.pdb
